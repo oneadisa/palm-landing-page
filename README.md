@@ -1,6 +1,6 @@
 # Repository Description
 
-This folder serves as the repository for the Palmfit-Web frontend project
+This folder serves as the repository for the Palmfit-Web frontend project.
 
 ## Setup
 Simply clone this repo on your pc, by typing out this command on your terminal.
